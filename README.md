@@ -1,7 +1,7 @@
 # XeroTestProject
 
 There are three tests:
-- Two Basic flows : Login success and Add ban account
+- Two Basic flows : Login success and Add bank account
 - one exception Flow : Invaid Login
 
 Assumption: 
@@ -10,6 +10,7 @@ Assumption:
 How to run: 
 - Tests located path: XeroTestProject\Tests. 
 - Tests will be appeared in the Test Explorere and just select the test and hit the run button. 
+- If you want to use a different user account make sure to change the credentials and Security questions and answers in the "AddBankAcountTest".
 
 Future Improvements:
 - Data parcing via test Data table insted hard code in the project.
