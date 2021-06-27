@@ -17,3 +17,4 @@ Future Improvements:
 - Add a headless browser profile/run script
 - create page classes for each different pages, unlike "AddBankAccountPage" in my solution. 
 - Add more exceptional and altanative Test cases for Add acount Scenario. 
+- Move all the config Data (Eg: User credentials, Security Questions) into a seperate configuration file.
